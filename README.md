@@ -16,3 +16,5 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
 
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v0.0.18
